@@ -47,7 +47,8 @@ parc = int
 valor = input()
 print ('Parcelas')
 parc = input()
-v_final = (float(valor)/float(parc))
+
+def
 
 
 #msg = 'olá,',nome, somos, consta, valor, com, nome_cred, portadora, cnpj,referente, desc, oferecemos, parc,'X de R$', v_final
